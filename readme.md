@@ -1,4 +1,4 @@
-# Effective Mobile – Docker + Nginx Test Task
+# Effective Mobile  Docker + Nginx Test
 
 # Описание
   веб-приложение из двух сервисов:
@@ -18,4 +18,4 @@ Nginx принимает HTTP-запросы и проксирует их в bac
 # Запуск
 
 ```bash
-docker compose up --build -d
+docker compose up -d
